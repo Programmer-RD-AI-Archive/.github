@@ -13,7 +13,7 @@ Welcome to **Programmer-RD-AI-Archive**, a GitHub Organization dedicated to arch
 
 ## 🔗 Useful Links
 - 🌐 [GitHub Profile](https://github.com/Programmer-RD-AI)
-- 💼 [LinkedIn](https://in/programmer-rd-ai)
+- 💼 [LinkedIn](https://www.linkedin.com/in/programmer-rd-ai/)
 - 📧 Email: [go2ranuga@gmail.com](mailto:go2ranuga@gmail.com)
 
 ## 🚀 Contributions
